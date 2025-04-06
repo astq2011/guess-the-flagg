@@ -1,2 +1,2 @@
-# guess-the-flagg
-guess the flagg
+# guess-the-flag
+guess the flag
